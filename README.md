@@ -125,3 +125,5 @@ window的用户名可以在cmd中输入指令whoami，斜杠后面的就是登�
 ### 密码安全
 
 为了安全起见，建议使用ssh免密登陆，并只允许密钥登陆。ssh免密教程挺多的。
+
+免密失败错误排查博客 [https://www.codenong.com/cs107672001/](https://www.codenong.com/cs107672001/), 尤其是文件权限!
