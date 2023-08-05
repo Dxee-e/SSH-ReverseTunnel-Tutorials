@@ -1,0 +1,8 @@
+server:
+  ssh-port: 0
+  ssh-usr: "*"
+client:
+  public-ip: "*"
+  client-usr: "*"
+  openssh-server-port: 0
+  reverse-tunnel-port: 0
